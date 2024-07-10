@@ -1,0 +1,55 @@
+.Contact{
+    text-align: center;
+    margin: 40px 0px 10px 280px;
+    width: 60%;
+    height: 64%;
+    border-bottom: 1px solid rgb(104, 104, 104);
+}
+
+.contact-input{
+    align-items: center;
+    text-align: center;
+}
+
+.contact-input h2{
+    padding: 10px 0px;
+    color: #6c00be;
+    font-size: 35px;
+    font-family: 'Baloo Paaji', cursive;
+    margin-bottom: 30px;
+}
+
+.contact-input p{
+    font-size: 18px;
+    color: rgb(126, 126, 126);
+}
+
+.input-box input{
+    background-color: rgb(231, 231, 231);
+    height: 30px;
+    width: 250px;
+    padding: 0px 0px 0px 10px;
+    margin: 0px 20px 20px 0px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: 1px solid rgb(114, 114, 114);
+    outline: none;
+}
+
+.message{
+    outline: none;
+    background-color: rgb(231, 231, 231);
+    border-radius: 5px;
+    font-family: sans-serif;
+    margin-right: 13px;
+    height: 150px;
+    width: 536px;
+    font-size: 15px;
+    padding: 10px 0px 0px 10px;
+}
+
+.sub-btn button{
+    border-radius: 5px;
+    border: 1px solid rgb(114, 114, 114);
+    margin-bottom: 30px;
+}
